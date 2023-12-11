@@ -1,4 +1,4 @@
-- ## Olá! Eu sou a Neandes Lima!
+- ## Olá! Eu sou Neandes Lima!
 - 👩‍💻 Estudante de tecnologia, gosto de desafios, aprender novos processos, e compartilhar conhecimento, atualmente estou me empenhado em construir minha carreira, finalizando o ensino superior em Tecnologia em Analise e Desenvolvimento de Sistemas.
 
 <picture>
